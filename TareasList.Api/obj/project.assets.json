@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TareasList.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TareasList.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TareasList.Core.dll": {}
+        }
+      },
+      "TareasList.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "TareasList.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TareasList.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TareasList.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TareasList.Core/1.0.0": {
+      "type": "project",
+      "path": "../TareasList.Core/TareasList.Core.csproj",
+      "msbuildProject": "../TareasList.Core/TareasList.Core.csproj"
+    },
+    "TareasList.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../TareasList.Infrastructure/TareasList.Infrastructure.csproj",
+      "msbuildProject": "../TareasList.Infrastructure/TareasList.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "TareasList.Core >= 1.0.0",
+      "TareasList.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\proyecto\\TareasList.Api\\TareasList.Api.csproj",
+      "projectName": "TareasList.Api",
+      "projectPath": "C:\\Users\\PC\\Desktop\\proyecto\\TareasList.Api\\TareasList.Api.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\proyecto\\TareasList.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\PC\\Desktop\\proyecto\\TareasList.Core\\TareasList.Core.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\proyecto\\TareasList.Core\\TareasList.Core.csproj"
+            },
+            "C:\\Users\\PC\\Desktop\\proyecto\\TareasList.Infrastructure\\TareasList.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\proyecto\\TareasList.Infrastructure\\TareasList.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

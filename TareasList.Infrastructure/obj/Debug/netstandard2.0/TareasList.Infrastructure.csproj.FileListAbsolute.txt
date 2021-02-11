@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\proyecto\TareasList.Infrastructure\bin\Debug\netstandard2.0\TareasList.Infrastructure.deps.json
+C:\Users\PC\Desktop\proyecto\TareasList.Infrastructure\bin\Debug\netstandard2.0\TareasList.Infrastructure.dll
+C:\Users\PC\Desktop\proyecto\TareasList.Infrastructure\bin\Debug\netstandard2.0\TareasList.Infrastructure.pdb
+C:\Users\PC\Desktop\proyecto\TareasList.Infrastructure\bin\Debug\netstandard2.0\TareasList.Core.dll
+C:\Users\PC\Desktop\proyecto\TareasList.Infrastructure\bin\Debug\netstandard2.0\TareasList.Core.pdb
+C:\Users\PC\Desktop\proyecto\TareasList.Infrastructure\obj\Debug\netstandard2.0\TareasList.Infrastructure.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\proyecto\TareasList.Infrastructure\obj\Debug\netstandard2.0\TareasList.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\proyecto\TareasList.Infrastructure\obj\Debug\netstandard2.0\TareasList.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\Desktop\proyecto\TareasList.Infrastructure\obj\Debug\netstandard2.0\TareasList.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\proyecto\TareasList.Infrastructure\obj\Debug\netstandard2.0\TareasList.Infrastructure.csproj.CopyComplete
+C:\Users\PC\Desktop\proyecto\TareasList.Infrastructure\obj\Debug\netstandard2.0\TareasList.Infrastructure.dll
+C:\Users\PC\Desktop\proyecto\TareasList.Infrastructure\obj\Debug\netstandard2.0\TareasList.Infrastructure.pdb
