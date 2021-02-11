@@ -1,7 +1,6 @@
 C:\Users\PC\Desktop\proyecto\TareasList.Core\bin\Debug\netstandard2.0\TareasList.Core.deps.json
 C:\Users\PC\Desktop\proyecto\TareasList.Core\bin\Debug\netstandard2.0\TareasList.Core.dll
 C:\Users\PC\Desktop\proyecto\TareasList.Core\bin\Debug\netstandard2.0\TareasList.Core.pdb
-C:\Users\PC\Desktop\proyecto\TareasList.Core\obj\Debug\netstandard2.0\TareasList.Core.csprojAssemblyReference.cache
 C:\Users\PC\Desktop\proyecto\TareasList.Core\obj\Debug\netstandard2.0\TareasList.Core.AssemblyInfoInputs.cache
 C:\Users\PC\Desktop\proyecto\TareasList.Core\obj\Debug\netstandard2.0\TareasList.Core.AssemblyInfo.cs
 C:\Users\PC\Desktop\proyecto\TareasList.Core\obj\Debug\netstandard2.0\TareasList.Core.csproj.CoreCompileInputs.cache
